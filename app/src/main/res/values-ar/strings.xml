@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediTrack</string>
+    <string name="check_app_trick">تفقد أسرار التطبيق</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="instructions_before_use">إرشادات قبل الاستخدام</string>
+    <string name="share_download_link">شارك رابط التحميل</string>
+    <string name="theme">الثيم</string>
+    <string name="completed_for_today">المكتملة لليوم</string>
+    <string name="start_time_helper_msg">وقت البداية</string>
+    <string name="end_time_helper_msg">وقت النهاية</string>
+    <string name="add_edit_medicine_title">إضافة\تعديل دواء</string>
+    <string name="medicine_name">تروفن</string>
+    <string name="medicine_title">اسم الدواء</string>
+    <string name="medicine_strength">قوة الدواء</string>
+    <string name="medicine_WhenToTake">الصباح, بعد الظهر ,المساء</string>
+    <string name="medicine_Type">حبوب , شراب , حقنة</string>
+    <string name="medicine_Amount">1,2,3,4 أو أكثر</string>
+    <string name="medicine_frequency">مرة واحدة, مرتين ,ثلاث مرات يوميًا</string>
+    <string name="empty_title_msg">عنوان المهمة لا يمكن أن يكون فارغاً</string>
+    <string name="empty_notes_msg">ملاحظات للدواء</string>
+    <string name="save_btn">حفظ</string>
+    <string name="high_priority">مرتفعة</string>
+    <string name="normal_priority">عادية</string>
+    <string name="low_priority">منخفضة</string>
+    <string name="priority">الأولوية</string>
+    <string name="cancel_btn">إلغاء</string>
+    <string name="done_btn">تم</string>
+    <string name="undo">تراجع</string>
+    <string name="deleted_task_msg">تم حذف الواء</string>
+    <string name="notification_msg">حان موعد تناول الدواء</string>
+    <string name="invalid_date_msg">التاريخ الذي قمت باختياره غير صالح</string>
+    <string name="current_time_msg">الوقت الحالي لا يمكن إستخدامه للدواء، هذا الوقت جاري الان</string>
+    <string name="current_time_start_time_msg">الوقت الحالي لا يمكن ان يكون وقت البداية</string>
+    <string name="current_time_end_time_msg">الوقت الحالي لا يمكن ان يكون وقت النهاية</string>
+    <string name="start_time_for_today_out_msg">وقت البداية الذي قمت باختياره لهذا اليوم قد مضى بالفعل</string>
+    <string name="end_time_for_today_out_msg">وقت النهاية الذي قمت باختياره لهذا اليوم قد مضى بالفعل</string>
+    <string name="time_for_today_out_msg">الوقت الذي قمت باختياره لهذا اليوم قد مضى بالفعل</string>
+    <string name="start_time_after_end_time_msg">وقت البداية لا يمكن أن يكون بعد وقت النهاية</string>
+    <string name="end_time_before_start_time_msg">وقت النهاية لا يمكن أن يكون قبل وقت البداية</string>
+    <string name="end_time_as_start_time_msg">وقت النهاية لا يمكن أن يكون نفسه وقت البداية</string>
+    <string name="start_time_as_end_time_msg">وقت البداية لا يمكن أن يكون نفسه وقت النهاية</string>
+    <string name="start_time_between_other_time_msg">وقت البداية لا يمكن أن يكون بين وقت البداية و وقت النهاية لمهمة أخرى</string>
+    <string name="end_time_between_other_time_msg">وقت النهاية لا يمكن أن يكون بين وقت البداية و وقت النهاية لمهمة أخرى</string>
+    <string name="task_same_start_time_for_date_msg">هناك مهمة بنفس وقت البداية لهذا التاريخ، لو سمحت قم بتغير الوقت لهذه المهمة</string>
+    <string name="task_same_end_time_for_date_msg">هناك مهمة بنفس وقت النهاية لهذا التاريخ، لو سمحت قم بتغير الوقت لهذه المهمة</string>
+    <string name="high_priority_for_same_date_msg">هناك مهمة ذات أولوية مرتفعة لهذا التاريخ، يمكنك امتلاك مهمة واحدة ذات أولوية مرتفعة كل يوم حتى انتهاء المهمة السابقة ذات الأولوية المرتفعة ثم تضغها مجدداً لمهمة أخرى</string>
+    <string name="al_tasks">الأدوية</string>
+    <string name="today">اليوم</string>
+    <string name="time">الوقت</string>
+    <string name="timechart">أوقات الأدوية اليومية</string>
+    <string name="_default">الإفتراضي</string>
+    <string name="descending">تنازلياً</string>
+    <string name="ascending">تصاعدياً</string>
+    <string name="pend_high_priority">تثبيت الأولوية المرتفعة</string>
+    <string name="lang_menu">اللغة</string>
+    <string name="medicines">مهام</string>
+    <string name="daily_report">التقرير اليومي</string>
+    <string name="taken">أخذتها</string>
+    <string name="you_should_take_it">يجب أن تأخذه</string>
+    <string name="min">دقيقة</string>
+    <string name="mins">دقائق</string>
+    <string name="hour">ساعة</string>
+    <string name="hours">ساعات</string>
+    <string name="hrs">س</string>
+    <string name="permission_msg_title">مطلوب أذن المنبهات والتذكيرات</string>
+    <string name="permission_msg_content">التطبيق يحتاج أذن المنبهات والتذكيرات لتذكيرك عندما تدخل المهمة في وقتها</string>
+
+    <string name="share_link_via">شارك الرابط من خلال</string>
+
+
+    <string name="instruction_1">للحذف اسحب بطاقة الدواء من اليمين إلى اليسار.</string>
+
+    <string name="instruction_2">يمكنك اختيار دواء واحد فقط كـ "أولوية قصوى" في نفس الوقت.
+عليك إنهاء الدواء ذي الأولوية الحالية أو حذفه قبل تعيين دواء آخر.
+بهذا الشكل يبقى الدواء الأهم أمامك دائماً لتذكيرك بعدم إهماله 🌹.</string>
+
+    <string name="instruction_3">لا يمكنك اختيار وقت يتعارض مع وقت دواء آخر في نفس اليوم،
+ولا يمكنك اختيار وقت يقع بين بداية ونهاية وقت دواء آخر.
+الهدف من ذلك هو ضمان التزامك بوقت محدد لكل دواء والتركيز عليه فقط.</string>
+
+
+    <string name="numberRes">%d</string>
+    <string name="slash"> \ \\\ \</string>
+
+
+    <string name="system">النظام</string>
+    <string name="language">العربية</string>
+    <string name="order">الترتيب</string>
+    <string name="sort_by">فرز حسب</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="settings">الاعدادات</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="fingerprint">بصمة الاصبع</string>
+    <string name="medicineNotes">ملاحظات للدواء</string>
+    <string name="medicineDose">عدد الجرعات</string>
+    <string name="all_medicines">All Medicines</string>
+    <string name="empty_decription_msg">.....</string>
+    <string name="missing">فاتني</string>
+    <string name="medicine_DescTitle">ملاحظات الدواء</string>
+    <string name="medicine_strengthTitle">قوة الدواء</string>
+    <string name="medicine_WhenToTakeTitle">متى تأخذه</string>
+    <string name="medicine_TypeTitle">نوع الدواء</string>
+    <string name="medicine_AmountTitle">الكمية</string>
+    <string name="medicine_frequencyTitle">التكرار</string>
+    <string name="startDate">تاريخ اخذ الدواء</string>
+    <string name="endDate">تاريخ الانتهاء من اخذ الدواء</string>
+    <string name="day">يوم</string>
+    <string name="days">أيام</string>
+
+</resources>
