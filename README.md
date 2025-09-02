@@ -1,11 +1,11 @@
 <p align="center">
   <img style="border-radius : 10px;" src="app/src/main/res/drawable/logo.jpg" alt="Logo" width="80" height="80">
-  <h3 align="center">Music Stream Neptune</h3>
-<p align="center">A Spotify clone implemented with Spotify features</p>
+  <h3 align="center">Medication Reminder App</h3>
+<p align="center">Best Medication Reminder App</p>
 </p>
 
 <p align="center">
-  Music Stream Neptune is a music streaming application developed in Kotlin. The application allows users to play, pause, shuffle, and repeat songs. It also provides a feature to like songs and maintain a list of liked songs. In Music Stream Neptune, Firebase plays a pivotal role by providing several backend services. Firebase Firestore serves as the primary database for the application, storing user data such as playlists, songs. Firebase Storage is utilized to store and serve the album art images for the songs. Lastly. By integrating these Firebase services, Music Stream Neptune is able to offer a robust and feature-rich music streaming experience to its users.
+  A medication reminder and tracking app that makes it easier for users (especially the elderly and those with chronic conditions) to adhere to their medication routine through reliable alerts, a clear interface, and the ability to share schedules with family and doctors.
 </p>
 
 ## Screenshots
