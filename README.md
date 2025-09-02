@@ -26,17 +26,17 @@
 </p>
 
 
-<a href="https://drive.google.com/file/d/1fFaSRDJ0lcOTYglQCBpepjVlQXGehy5E/view?usp=sharing" ><img src="https://img.icons8.com/color/48/000000/download" alt="download" width="40" height="40"/> Download My App</a>
+<a href="https://drive.google.com/file/d/1oG5JbIdrURFXQ8V45Ovloyik5k2LBIK6/view?usp=sharing" ><img src="https://img.icons8.com/color/48/000000/download" alt="download" width="40" height="40"/> Download My App</a>
 
 ## Tools and Libraries Used
 
 - Language: Kotlin
 - Framework: Android Jetpack Compose
-- Image Loading: Glide
+- Image Loading: Coil
 - Dependency Injection: Hilt
 - Asynchronous Programming: Coroutines, Flow
 - Android Architecture Components: MVVM, ViewModel
-- Backend: Firebase
+- Backend: Retrofit
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/>
