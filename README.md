@@ -19,7 +19,7 @@
   <img src="assets/Screenshot_1756816196.png" alt="Screenshot 6" width="200">
   <img src="assets/Screenshot_1756816301.png" alt="Screenshot 7" width="200">
   <img src="assets/Screenshot_1756816327.png" alt="Screenshot 8" width="200">
-  <img src="assets/screen9.jpg" alt="Screenshot 9" width="200">
+  <img src="assets/screen9.png" alt="Screenshot 9" width="200">
   <img src="assets/Screenshot_1756816583.png" alt="Screenshot 10" width="200">
   <img src="assets/Screenshot_1756816588.png" alt="Screenshot 11" width="200">
   <img src="assets/Screenshot_1756816593.png" alt="Screenshot 12" width="200">
