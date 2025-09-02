@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="border-radius : 10px;" src="app/src/main/res/drawable/logo.png" alt="Logo" width="80" height="80">
+  <img style="border-radius : 10px;" src="app/src/main/res/drawable/logo.jpg" alt="Logo" width="80" height="80">
   <h3 align="center">Music Stream Neptune</h3>
 <p align="center">A Spotify clone implemented with Spotify features</p>
 </p>
