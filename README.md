@@ -11,12 +11,18 @@
 ## Screenshots
 
 <p align="center">
-  <img src="assets/Screenshot_20240619_182216.png" alt="Screenshot 1" width="200">
-  <img src="assets/Screenshot_20240619_182351.png" alt="Screenshot 2" width="200">
-  <img src="assets/Screenshot_20240619_182430.png" alt="Screenshot 3" width="200">
-  <img src="assets/Screenshot_20240619_182511.png" alt="Screenshot 3" width="200">
-  <img src="assets/Screenshot_20240619_182533.png" alt="Screenshot 3" width="200">
-  <img src="assets/Screenshot_20240619_182620.png" alt="Screenshot 3" width="200">
+  <img src="assets/Screenshot_1756301558.png" alt="Screenshot 1" width="200">
+  <img src="assets/Screenshot_1756301567.png" alt="Screenshot 2" width="200">
+  <img src="assets/Screenshot_1756816086.png" alt="Screenshot 3" width="200">
+  <img src="assets/Screenshot_1756816111.png" alt="Screenshot 4" width="200">
+  <img src="assets/Screenshot_1756816190.png" alt="Screenshot 5" width="200">
+  <img src="assets/Screenshot_1756816196.png" alt="Screenshot 6" width="200">
+  <img src="assets/Screenshot_1756816301.png" alt="Screenshot 7" width="200">
+  <img src="assets/Screenshot_1756816327.png" alt="Screenshot 8" width="200">
+  <img src="assets/WhatsApp Image 2025-09-02 at 15.34.02_0924389e.png" alt="Screenshot 9" width="200">
+  <img src="assets/Screenshot_1756816583.png" alt="Screenshot 10" width="200">
+  <img src="assets/Screenshot_1756816588.png" alt="Screenshot 11" width="200">
+  <img src="assets/Screenshot_1756816593.png" alt="Screenshot 12" width="200">
 </p>
 
 
